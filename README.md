@@ -13,7 +13,7 @@ I am currently working on AR
 ![](https://github-profile-trophy.vercel.app/?username=Kind-sketch&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kind-sketch&icon=0&color=8)](https://visitcount.itsvg.in)
+
 
 ---
 
